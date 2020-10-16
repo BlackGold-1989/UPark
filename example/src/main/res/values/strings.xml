@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Upark</string>
+
+    <string name="title_scan">Upark</string>
+    <string name="title_result">Upark</string>
+
+    <string name="common_login">Log in</string>
+    <string name="common_signup">Sign up</string>
+    <string name="common_name">Name</string>
+    <string name="common_email">Email</string>
+    <string name="common_phone">Phone</string>
+    <string name="common_password">Password</string>
+    <string name="common_google">GOOGLE</string>
+    <string name="common_result">Resultado</string>
+    <string name="common_send">Enviar</string>
+    <string name="common_check_email">Por favor revise su correo electrónico.</string>
+
+    <string name="welcome_title">Bienvenido</string>
+    <string name="welcome_content">Ya no hagas mas filas para \n pagar tu estacionamiento.</string>
+
+    <string name="register_content">Registrate para poder realizar su pago de estacionamiento.</string>
+    <string name="register_term">I accept the term and conditions.</string>
+    <string name="register_name_empty">El nombre esta vacio.</string>
+    <string name="register_email_empty">El correo esta vacio.</string>
+    <string name="register_email_format">El formato del correo electrónico es incorrecto.</string>
+    <string name="register_phone_empty">El número de teléfono está vacío.</string>
+    <string name="register_term_privacy">Por favor, acepte el término y la privacidad.</string>
+
+    <string name="login_content">Inicie sesión para poder realizar su pago de estacionamiento.</string>
+    <string name="login_remember">Recuérdame</string>
+    <string name="login_server_connect">Conectando en el Servidor...</string>
+    <string name="login_term_title">Acepto el</string>
+    <string name="login_term_content"><u>término &amp; privacidad.</u></string>
+
+    <string name="main_btn_detect">Agregar metodo de pago</string>
+    <string name="main_btn_configuations">Configuraciones</string>
+    <string name="main_btn_capture">Captura Manual</string>
+    <string name="main_btn_record">Historial</string>
+    <string name="main_btn_map">Mapa</string>
+    <string name="main_btn_payment">Método de Pago</string>
+    <string name="main_btn_coupons">Cupones</string>
+    <string name="main_btn_contact">Contactanos</string>
+
+    <string name="contact_support">Contenido del correo electrónico que se enviará a soporte.</string>
+
+    <string name="dialog_title">Privacidad y Política</string>
+    <string name="dialog_content">Upark es una aplicación que proporciona ayuda general al usuario para México, como una pasarela de pago fácil y una pasarela en línea, etc. \n
+Su mirada a los puntos que ayudan a transferir dinero a su usuario. \n
+Es una aplicación gratuita para cualquier usuario. \n
+El usuario debe iniciar sesión para esta aplicación y los niños menores de 16 años no pueden usar Upark. \n
+Apreciamos a nuestro usuario y trabajamos constantemente en la calidad de la información de una aplicación. \n
+Si observa un error, información inexacta o simplemente desea proponer una mejora, contáctenos en ropubapps@gmail.com. \n</string>
+
+    <string name="wrong_pass">Su contraseña esta vacia Por favor, introduzca algunas palabras.</string>
+    <string name="wrong_term">Debe aceptar el término y la privacidad de esta aplicación.</string>
+
+    <string name="progress_title">Informacion</string>
+    <string name="progress_detail">Conectando al servidor......</string>
+
+    <string name="alert_error_internet_detail">Error de internet</string>
+    <string name="alert_error_server_detail">Error de servidor</string>
+
+</resources>

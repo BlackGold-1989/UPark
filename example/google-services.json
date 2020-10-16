@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "1098247916470",
+    "firebase_url": "https://upark-8004d.firebaseio.com",
+    "project_id": "upark-8004d",
+    "storage_bucket": "upark-8004d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098247916470:android:a42975eda45835b0360f17",
+        "android_client_info": {
+          "package_name": "com.mario.upark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098247916470-4a3j7h3q5o1a2vspd4tcpsvvu963c8h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mario.upark",
+            "certificate_hash": "7ea985cb649c2e3f8f8682fe6811db9d2edd51b9"
+          }
+        },
+        {
+          "client_id": "1098247916470-uuk7jcnb61vktj1s0rg8emjqqk5d0qjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mario.upark",
+            "certificate_hash": "baf807ec59c86dcb7332cfb076f3a4a3bbf294bc"
+          }
+        },
+        {
+          "client_id": "1098247916470-ms7ef6hk8rf200sjidh4i5cemi94ldna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mario.upark",
+            "certificate_hash": "304c1056f373e2095bc2dafb1d46fdedd948da53"
+          }
+        },
+        {
+          "client_id": "1098247916470-9kurq1nmi0eidjseu00mu7oqa3ba17pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mario.upark",
+            "certificate_hash": "1a580e35fd3ac3a88c3094ad4ae727ff5b028f8b"
+          }
+        },
+        {
+          "client_id": "1098247916470-05h63d8radb7fo99p3bgeqvj8rmmfur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJTEdeQHCMU_H6iMaN-pjtVvz5H_Hr8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098247916470-05h63d8radb7fo99p3bgeqvj8rmmfur2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098247916470-4sk7apn9hh2ivv9on3hfg1b7ana9l9du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mario.upark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

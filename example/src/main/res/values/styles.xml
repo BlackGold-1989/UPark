@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="txt">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="txt.22">
+        <item name="android:textSize">22dp</item>
+    </style>
+
+    <style name="txt.22.white">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="txt.22.white.bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="txt.18">
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="txt.18.white">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btn.login">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/btn_back_login</item>
+    </style>
+
+    <style name="btn.google">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/btn_back_google</item>
+    </style>
+
+    <style name="btn.main">
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/btn_back_login</item>
+    </style>
+
+    <style name="edt">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="edt.register">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <item name="android:background">@drawable/txt_back_register</item>
+    </style>
+
+    <style name="img_item">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+</resources>
